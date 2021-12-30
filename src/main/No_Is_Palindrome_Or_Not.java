@@ -1,3 +1,5 @@
+package main;
+
 public class No_Is_Palindrome_Or_Not {
 
         public static void main(String[] args) {
