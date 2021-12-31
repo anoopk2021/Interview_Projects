@@ -2,7 +2,7 @@ package main;
 
 import java.util.ArrayList;
 import java.util.Collections;
-
+//..
 public class ArrayList_Binary_Search {
 
 
