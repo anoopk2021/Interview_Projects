@@ -1,4 +1,4 @@
-package main;
+package interview_coding_solution;
 public class Reverse_Only_Alphabets {
         public static void reverse(char str[]) {
             // Initialize left and right pointers

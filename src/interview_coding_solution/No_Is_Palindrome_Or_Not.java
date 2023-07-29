@@ -1,4 +1,4 @@
-package main;
+package interview_coding_solution;
 
 public class No_Is_Palindrome_Or_Not {
 

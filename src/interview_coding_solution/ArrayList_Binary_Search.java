@@ -1,4 +1,4 @@
-package main;
+package interview_coding_solution;
 
 import java.util.ArrayList;
 import java.util.Collections;

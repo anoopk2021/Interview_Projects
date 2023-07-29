@@ -1,4 +1,4 @@
-package main;
+package interview_coding_solution;
 
 public class Find_Small_and_Large_String {
 
